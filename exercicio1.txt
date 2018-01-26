@@ -3,7 +3,5 @@ editando exercicio 1
 asdasd
 asdasd
 
-
 linha adicionada pelo branch-b
 adicionado outra linha
-
