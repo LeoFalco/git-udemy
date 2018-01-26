@@ -17,3 +17,4 @@ catlin stark
 fion greyjoy
 tomen baratheon
 bran stark
+samuel tarly
