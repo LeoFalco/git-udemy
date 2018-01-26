@@ -2,9 +2,8 @@ luke skywalker
 obi Wan kenobil
 darth vader
 
-asdasd
-asdasd
-
+liana stark
+jaime lenister
 
 ola este commit veio do branch de teste
 
