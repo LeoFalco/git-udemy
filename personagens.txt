@@ -2,15 +2,12 @@ luke skywalker
 obi Wan kenobil
 darth vader
 
-<<<<<<< HEAD
 //removendo partes zuadas e mudando a temática para GOT
 jhon show
 karl drogo
-=======
 liana stark
 jaime lenister
 
 ola este commit veio do branch de teste
 
-sera que estáedição tem como autor LeoFalco ?
->>>>>>> master
+sera que está edição tem como autor LeoFalco ?
