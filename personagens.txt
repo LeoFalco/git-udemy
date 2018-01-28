@@ -8,10 +8,6 @@ karl drogo
 liana stark
 jaime lenister
 
-ola este commit veio do branch de teste
-
-sera que estáedição tem como autor LeoFalco ?
-
 // exercicio de rebase
 catlin stark
 fion greyjoy
